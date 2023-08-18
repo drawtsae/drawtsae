@@ -1,6 +1,6 @@
-## Hi there, I'm HDit 👋
+## Hi there, I'm Tsae 👋
 
-- 💻 I'm a Student, Developer
+- 💻 I'm a Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: make something awesome
