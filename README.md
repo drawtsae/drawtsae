@@ -3,11 +3,11 @@
 - 💻 I'm a Student, Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: make something awesome
+- 🥅 2023 Goals: make something awesome
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/donghuong2000/count.svg" />
+  <img src="https://profile-counter.glitch.me/drawtsae/count.svg" />
 </p>
 <br/>
 ## 👨🏻‍💻 Languages and Tools 
@@ -23,5 +23,5 @@
 </p>
 <br />
 <p align="center"> 
-<img align="center" alt="HDit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=donghuong2000&show_icons=true&hide_border=true" />
+<img align="center" alt="HDit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drawtsae&show_icons=true&hide_border=true" />
 </p>
